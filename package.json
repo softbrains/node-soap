@@ -1,6 +1,6 @@
 {
   "name": "@softbrains/soap",
-  "version": "0.25.1",
+  "version": "0.25.2",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=4.0.0"
